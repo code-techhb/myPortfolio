@@ -113,6 +113,9 @@ ul {
   list-style: none;
 }
 
+.content-left {
+  text-align: left;
+}
 blockquote,
 q {
   quotes: none;
